@@ -24,7 +24,7 @@ A continuación una ___tabla___:
 
 A contunuación un _enlace_ o *link*:
 
-[El Pais America](www.amazon.com)
+[Amazon](https://www.amazon.com/-/es/)
 
 A continuación una ___imagen___:
 
